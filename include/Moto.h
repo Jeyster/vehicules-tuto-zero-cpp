@@ -7,9 +7,10 @@
 class Moto : public Vehicule
 {
     public:
-        Moto(std::string marque = "inconnue", int prix = 10000, double vitesse = 255.5);
+        Moto(std::string marque = "inconnue", int prix = 10000, double vitesse = 255.5, int anneeFabrication = 2017);
         virtual ~Moto();
         virtual void affiche() const;
+        virtual int nbrRoues() const;
 
     protected:
         double m_vitesse;
