@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1513601269 source:d:\profiles\mgaurat\desktop\code\c++\vehicules-tuto-zero\main.cpp
+	"Vehicule.h"
+	"Voiture.h"
+	"Moto.h"
+
+1513601750 d:\profiles\mgaurat\desktop\code\c++\vehicules-tuto-zero\include\vehicule.h
+	<iostream>
+	<string>
+
+1513600947 source:d:\profiles\mgaurat\desktop\code\c++\vehicules-tuto-zero\src\vehicule.cpp
+	"Vehicule.h"
+
+1513600955 source:d:\profiles\mgaurat\desktop\code\c++\vehicules-tuto-zero\src\voiture.cpp
+	"Voiture.h"
+
+1513601753 d:\profiles\mgaurat\desktop\code\c++\vehicules-tuto-zero\include\voiture.h
+	<string>
+	"Vehicule.h"
+
+1513601759 d:\profiles\mgaurat\desktop\code\c++\vehicules-tuto-zero\include\moto.h
+	<string>
+	"Vehicule.h"
+
+1513601322 source:d:\profiles\mgaurat\desktop\code\c++\vehicules-tuto-zero\src\moto.cpp
+	"Moto.h"
+
