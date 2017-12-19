@@ -100,7 +100,9 @@ derby.log
 # Code Blocks
 ######################
 
-
+*.cbp
+*.depend
+*.layout
 
 ######################
 # Liberty tools
